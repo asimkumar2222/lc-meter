@@ -1,0 +1,1 @@
+This is a Low Cost LC Meter Project using resonance of a LC circuit. Here i have used atmega32.
